@@ -1,0 +1,11 @@
+    325d2eda6a177a951bea52ef0498b44a
+
+ 
+
+
+faceset <-face     
+			|
+			v
+group   <-person     user  type 1管理 2老师 3学生
+identify   (verify)
+		
