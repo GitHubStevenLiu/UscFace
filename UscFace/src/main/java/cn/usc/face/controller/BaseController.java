@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.InitBinder;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-public abstract class BaseController
+public abstract class BaseController  
 {
 	protected JSONObject json =null;  
 	protected Gson gson =new GsonBuilder().setDateFormat(
